@@ -67,17 +67,20 @@ We welcome contributions from developers, civic tech enthusiasts, and researcher
 
 ---
 
-## License
+## License & Notice Requirements
 
-This project is licensed under the **GNU Affero General Public License Version 3+ (AGPL‑3.0+)**.  
-See LICENSE for full details.  
+ActionCheck is released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
+By contributing to this project, you agree that your contributions will also be released under this license.
 
----
+Please note the following:
 
-## Contact / Community
+- All contributions must comply with the **AGPL-3.0+** terms.  
+- Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
+  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
+- The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
+  Any update that adds new contributors or modifies attribution should also update `notice.md`. 
+- When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 
-- Codeberg: [https://codeberg.org/RoxanneA/actioncheck](https://codeberg.org/RoxanneA/actioncheck)  
-- Issues & feature requests: Open a ticket on the repository  
-- Discussions & collaboration: Use the Codeberg discussion board  
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
 
 *This repository is maintained for civic transparency and educational purposes.*
