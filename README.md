@@ -2,68 +2,178 @@
 
 *Every Action Logged. Every Deviation Noted.*
 
-ActionCheck is an **open-source platform** that empowers citizens to hold politicians accountable. It tracks campaign promises, votes, financial activity, corporate board memberships, and potential conflicts of interest, providing transparency and civic engagement tools. Licensed under **GNU Affero General Public License Version 3+ (AGPL‑3.0+)**.
+ActionCheck is an open-source civic accountability platform designed to help citizens track whether elected officials follow through on their promises, how they vote while in office, who they financially benefit, and whether their actions align with the people they serve.
+
+The platform combines public records, legislative data, campaign statements, financial disclosures, corporate filings, and AI-powered analysis into one transparent system for public review.
+
+Licensed under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.
 
 ---
 
-## Features
+## Mission
 
-- ✅ Track campaign promises vs. actual votes  
-- ✅ Monitor financial trades and portfolios while in office  
-- ✅ Highlight deviations, contradictions, or cronyism  
-- ✅ **AI-powered search for past or present corporate board memberships**  
-- ✅ Crowdsourced evidence and citizen contributions  
-- ✅ Promise Tracker with detailed status:  
-  - ✅ Delivered  
-  - ⚠️ Partially Delivered  
-  - ❌ Not Delivered  
-- Fully auditable and open-source  
+Modern voters are often forced to rely on campaign slogans, fragmented news coverage, and selective narratives. ActionCheck was created to provide a factual, evidence-based accountability system that compares what politicians say with what they actually do.
+
+---
+
+## Full Feature List
+
+## Promise Tracker
+
+- Store campaign promises from speeches, websites, interviews, debates, and policy platforms  
+- Categorize promises by issue type  
+- Mark each promise as:
+  - Delivered
+  - Partially Delivered
+  - Not Delivered
+  - Reversed
+  - Blocked by Legislature
+- Timeline view of promise progress
+- Source links for every promise entry
+- AI-assisted promise extraction from speeches and websites
+
+---
+
+## Voting Record Analysis
+
+- Full voting history by politician
+- Compare votes to campaign promises
+- Highlight contradictions between promises and votes
+- Attendance tracking
+- Committee participation records
+- Sponsored bills and co-sponsored legislation
+- Missed vote alerts
+- Cross-party voting history
+
+---
+
+## Integrity & Deviation Detection
+
+- Detect sudden policy reversals
+- Identify repeated contradictions
+- Flag suspicious legislative patterns
+- Detect votes favoring donors or affiliated interests
+- Cronyism indicators
+- Nepotism pattern tracking
+- Public-interest scorecards
+
+---
+
+## Financial Transparency
+
+- Portfolio disclosure tracking
+- Stock trade monitoring
+- Real estate interest disclosures
+- Lobbying-linked investment alerts
+- Trade timing anomaly detection
+- Wealth growth during office timeline
+- Insider advantage pattern review
+- Compare trades against committee assignments
+
+---
+
+## Board Membership & Corporate Ties
+
+- AI-powered search for current board memberships
+- AI-powered search for former board memberships
+- SEC filing analysis
+- Corporate registration record scanning
+- Nonprofit board tracking
+- Advisory role detection
+- Conflict-of-interest alerts
+- Corporate relationship maps
+
+---
+
+## AI Intelligence Engine
+
+- Natural language promise detection
+- Speech-to-policy comparison
+- Semantic contradiction detection
+- Voting intent comparison
+- Filing document parsing
+- Relationship mapping between entities
+- Automated source citation linking
+- Trend summaries
+
+---
+
+## Citizen Tools
+
+- Public politician profiles
+- Search by city, state, district, party, office
+- Election season comparison tools
+- Re-election risk reports
+- Exportable accountability summaries
+- Public dashboards
+- Mobile-friendly access
+- Community evidence submissions
+- Public correction requests
+
+---
+
+## Data & Auditability
+
+- Source links on all major claims
+- Timestamped updates
+- Change history logs
+- Contributor review trails
+- Public methodology documentation
+- Open-source transparency
+- Self-hostable deployments
+- API-ready architecture
+
+---
+
+## Admin & Moderator Tools
+
+- Evidence review queue
+- Duplicate promise merge tools
+- Source validation workflows
+- Contributor management
+- Abuse prevention tools
+- Audit logs
+- Moderation dashboard
 
 ---
 
 ## Tech Stack
 
-- **Backend:** Python (Django/Flask) or Node.js  
-- **Frontend:** React + D3.js for interactive dashboards  
-- **Database:** PostgreSQL or MongoDB  
-- **AI / Analysis:** NLP & semantic models to match promises to actions, detect deviations, flag conflicts of interest, and scan corporate filings  
-- **Data Sources:** Government APIs, SEC filings, corporate filings, news & press releases  
+- Frontend: React
+- Data Visualization: D3.js / Chart systems
+- Backend: Python (Django / FastAPI / Flask) or Node.js
+- Database: PostgreSQL / MariaDB / MongoDB
+- Search: OpenSearch / Elasticsearch
+- AI Layer: NLP / Semantic Analysis / LLM workflows
+- Data Pipelines: Government APIs, SEC filings, campaign sites, public records
+- Deployment: Docker / Linux / Self-hosted / Cloud
 
 ---
 
 ## Installation
 
-1. Clone the repository using your Git client, for example: `git clone https://codeberg.org/RoxanneA/actioncheck.git` and `cd actioncheck`.  
-2. Set up a Python virtual environment if using Django or Flask: `python -m venv venv` and activate it with `source venv/bin/activate`.  
-3. Install dependencies: `pip install -r requirements.txt`.  
-4. Configure your database (PostgreSQL recommended) in `settings.py`.  
-5. Run migrations using: `python manage.py migrate`.  
-6. Start the development server: `python manage.py runserver`.  
-7. Access the app in your browser at `http://localhost:8000`.  
+1. Clone the repository from Codeberg.
+2. Install project dependencies.
+3. Configure environment variables.
+4. Connect database.
+5. Run migrations.
+6. Start development server.
+7. Import public datasets.
+8. Begin local analysis.
 
-> *For Node.js backend, follow equivalent steps using `npm install` and `npm start`.*  
-
----
-
-## Usage
-
-- Browse politicians and view promises with delivery status.  
-- Use the **Promise Tracker** to see which promises were delivered, partially delivered, or not delivered.  
-- Search for corporate board memberships or financial filings using AI-powered search.  
-- Contribute new promises or evidence through the crowdsourced interface.  
+See project workflow documentation for full setup procedures.
 
 ---
 
-## Contributing
+## Project Goals
 
-We welcome contributions from developers, civic tech enthusiasts, and researchers:
-
-1. Fork the repository  
-2. Create a new branch for your feature or fix  
-3. Commit your changes with descriptive messages  
-4. Submit a pull request for review  
-
-**Note:** All contributions must comply with **AGPL‑3.0+** licensing terms and include proper attribution to **Roxanne Ardary** and [roxanneardary.com](https://www.roxanneardary.com/).  
+- Improve voter awareness
+- Reduce political deception
+- Make campaign promises searchable
+- Increase transparency
+- Protect citizens from corruption
+- Build open civic intelligence tools
+- Encourage informed re-election decisions
 
 ---
 
@@ -83,4 +193,33 @@ Please note the following:
 
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
 
-*This repository is maintained for civic transparency and educational purposes.*
+---
+
+## Contributing
+
+Developers, researchers, journalists, data analysts, civic groups, and citizens are welcome to contribute.
+
+Areas of contribution include:
+
+- Code development
+- Public records integration
+- AI model tuning
+- UI improvements
+- Security reviews
+- Data validation
+- Documentation
+- Translation support
+
+---
+
+## Repository
+
+Codeberg Repository: https://codeberg.org/RoxanneA/actioncheck
+
+---
+
+## Final Statement
+
+ActionCheck exists to give citizens a clear view of public service performance.
+
+**Every Action Logged. Every Deviation Noted.**
