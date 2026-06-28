@@ -70,3 +70,6 @@ For full legal details, please refer to the AGPL-3.0+ license and the project's 
 ---
 
 Thank you for helping make **ActionCheck** a reliable, transparent, and accountable civic tech platform.
+
+**Open Arsenal Hub**  
+[https://codeberg.org/RoxanneA/Open_Arsenal](https://codeberg.org/RoxanneA/Open_Arsenal)
