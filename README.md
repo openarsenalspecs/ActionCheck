@@ -177,6 +177,22 @@ See project workflow documentation for full setup procedures.
 
 ---
 
+## Specification Branding License (SBL)
+### Standard
+- Fully AGPL-3.0+ compliant system
+- Copyleft enforced for network deployments
+- Required attribution:
+  - Roxanne Ardary
+  - https://www.roxanneardary.com/
+
+### Optional
+
+- **Specification Branding License (SBL)**
+  - Attribution-free commercial deployment
+  - Pricing based on scale, usage, and deployment scope
+
+---
+
 ## License & Notice Requirements
 
 ActionCheck is released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
