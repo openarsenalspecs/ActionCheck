@@ -796,6 +796,7 @@ Implementations must provide:
 - **Specification Branding License (SBL)**
   - Attribution-free commercial deployment
   - Pricing based on scale, usage, and deployment scope
+  - [https://roxanneardary.com/ai-intelligence-engine/](https://roxanneardary.com/ai-intelligence-engine/)
 
 ---
 
