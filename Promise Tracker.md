@@ -392,6 +392,7 @@ Promise Tracker follows these principles:
 - **Specification Branding License (SBL)**
   - Attribution-free commercial deployment
   - Pricing based on scale, usage, and deployment scope
+  - [https://roxanneardary.com/promise-tracker/](https://roxanneardary.com/promise-tracker/)
 
 ---
 
