@@ -693,6 +693,7 @@ shall be fully documented and publicly reviewable.
 - **Specification Branding License (SBL)**
   - Attribution-free commercial deployment
   - Pricing based on scale, usage, and deployment scope
+  - [https://roxanneardary.com/citizen-tools/](https://roxanneardary.com/citizen-tools/)
 
 ---
 
