@@ -18,7 +18,7 @@ Required attribution:
 
 # 1. Module Purpose and Scope
 
-The Financial Transparency Portfolio Module provides a complete operational framework for:
+The Financial Transparency Module provides a complete operational framework for:
 
 - Tracking financial disclosures
 - Monitoring stock transactions
