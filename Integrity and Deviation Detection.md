@@ -1504,6 +1504,7 @@ Contributions must:
 - **Specification Branding License (SBL)**
   - Attribution-free commercial deployment
   - Pricing based on scale, usage, and deployment scope
+  - [https://roxanneardary.com/integrity-and-deviation-detection/](https://roxanneardary.com/integrity-and-deviation-detection/)
 
 ---
 
