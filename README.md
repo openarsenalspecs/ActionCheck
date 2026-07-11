@@ -18,7 +18,7 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 
 ## Full Feature List
 
-## [Promise Tracker](../Promise%20Tracker.md)
+## [Promise Tracker](/Promise%20Tracker.md)
 
 - Store campaign promises from speeches, websites, interviews, debates, and policy platforms  
 - Categorize promises by issue type  
