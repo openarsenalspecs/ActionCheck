@@ -85,7 +85,7 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 
 ---
 
-## [AI Intelligence Engine](https://codeberg.org/RoxanneA/ActionCheck/_edit/main/AI%20Intelligence%20Engine.md)
+## [AI Intelligence Engine](https://codeberg.org/RoxanneA/ActionCheck/src/branch/main/AI%20Intelligence%20Engine.md)
 
 - Natural language promise detection
 - Speech-to-policy comparison
