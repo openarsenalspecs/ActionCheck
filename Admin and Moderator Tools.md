@@ -651,6 +651,7 @@ An implementation is compliant when it provides:
 - **Specification Branding License (SBL)**
   - Attribution-free commercial deployment
   - Pricing based on scale, usage, and deployment scope
+  - [https://roxanneardary.com/admin-and-moderator-tools/](https://roxanneardary.com/admin-and-moderator-tools/)
 
 ---
 
