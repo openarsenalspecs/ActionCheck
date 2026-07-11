@@ -626,6 +626,7 @@ Potential extensions include:
 - **Specification Branding License (SBL)**
   - Attribution-free commercial deployment
   - Pricing based on scale, usage, and deployment scope
+  - [https://roxanneardary.com/data-and-auditability/](https://roxanneardary.com/data-and-auditability/)
 
 ---
 
