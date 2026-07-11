@@ -856,6 +856,7 @@ Possible future modules:
 - **Specification Branding License (SBL)**
   - Attribution-free commercial deployment
   - Pricing based on scale, usage, and deployment scope
+  - [https://roxanneardary.com/financial-transparency/](https://roxanneardary.com/financial-transparency/)
 
 ---
 
