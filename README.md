@@ -72,7 +72,7 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 
 ---
 
-## Board Membership & Corporate Ties
+## [Board Membership & Corporate Ties](https://codeberg.org/RoxanneA/ActionCheck/src/branch/main/Board%20Membership%20and%20Corporate%20Ties.md)
 
 - AI-powered search for current board memberships
 - AI-powered search for former board memberships
