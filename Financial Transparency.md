@@ -1,4 +1,4 @@
-# Financial Transparency Module Specification
+# Financial Transparency
 
 ---
 
