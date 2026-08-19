@@ -1,4 +1,5 @@
 # Financial Transparency
+- HTML Mirror:  [https://roxanneardary.com/financial-transparency-specification/](https://roxanneardary.com/financial-transparency-specification/)
 
 ---
 
