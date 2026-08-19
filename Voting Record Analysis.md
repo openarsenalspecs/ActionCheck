@@ -1,4 +1,5 @@
 # Voting Record Analysis Specification
+- HTML Mirror:  [https://roxanneardary.com/voting-record-analysis-specification/](https://roxanneardary.com/voting-record-analysis-specification/)
 
 ---
 
