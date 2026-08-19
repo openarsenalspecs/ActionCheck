@@ -1,4 +1,5 @@
 # Board Membership & Corporate Ties Specification
+- HTML Mirror:  [https://roxanneardary.com/board-membership-corporate-ties-specification/](https://roxanneardary.com/board-membership-corporate-ties-specification/)
 
 ---
 
