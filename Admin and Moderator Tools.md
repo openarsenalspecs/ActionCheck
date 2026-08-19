@@ -1,4 +1,5 @@
 # Admin & Moderator Tools
+- HTML Mirror:  [https://roxanneardary.com/admin-and-moderator-tools-specification/](https://roxanneardary.com/admin-and-moderator-tools-specification/)
 
 ---
 
