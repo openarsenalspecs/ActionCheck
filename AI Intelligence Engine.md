@@ -1,5 +1,7 @@
 # AI Intelligence Engine Specification
 
+---
+
 ## Overview
 
 The AI Intelligence Engine is a modular intelligence and analytics framework that provides artificial intelligence capabilities for detecting promises, analyzing policy statements, identifying contradictions, processing documents, mapping relationships, generating citations, and producing trend summaries.
@@ -810,13 +812,10 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- [AI Intelligence Engine specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- AI Intelligence Engine specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
   Any update that adds new contributors or modifies attribution should also update `notice.md`. 
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
-**Open Arsenal Hub**  
-[https://gitlab.com/Roxanne_Ardary/open-arsenal-specs](https://gitlab.com/Roxanne_Ardary/open-arsenal-specs)
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
