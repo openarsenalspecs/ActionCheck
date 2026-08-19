@@ -1,4 +1,5 @@
 # AI Intelligence Engine Specification
+- HTML Mirror:  [https://roxanneardary.com/ai-intelligence-engine-specification/](https://roxanneardary.com/ai-intelligence-engine-specification/)
 
 ---
 
