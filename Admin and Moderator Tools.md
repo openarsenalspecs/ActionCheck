@@ -1,4 +1,4 @@
-# Admin & Moderator Tools Module Specification
+# Admin & Moderator Tools
 
 ---
 
