@@ -1,7 +1,6 @@
 # Voting Record Analysis Specification
 
-**Version:** 1.0.0  
-**License:** GNU Affero General Public License v3.0 or later (AGPL-3.0+)  
+---
 
 ## Overview
 
@@ -296,33 +295,6 @@ Fields:
 
 ---
 
-# Data Integrity Requirements
-
-The implementation MUST:
-
-- Preserve original source records
-- Maintain historical accuracy
-- Include citations for all legislative data
-- Track changes over time
-- Prevent unauthorized modification of verified records
-- Separate factual records from analysis layers
-
----
-
-# Transparency Requirements
-
-All analytical outputs MUST include:
-
-- Data sources used
-- Calculation methods
-- Confidence indicators
-- Last update date
-- Limitations
-
-The system MUST avoid presenting automated analysis as confirmed motivation or intent.
-
----
-
 # API Requirements
 
 Implementations SHOULD provide APIs for:
@@ -341,45 +313,6 @@ API responses SHOULD support:
 - Structured metadata
 - Source references
 - Historical records
-
----
-
-# User Interface Requirements
-
-Applications implementing this specification SHOULD provide:
-
-- Politician profile pages
-- Voting timeline views
-- Legislative activity dashboards
-- Promise comparison views
-- Attendance summaries
-- Committee history
-- Bill sponsorship tracking
-- Downloadable public records
-
----
-
-# Security Requirements
-
-Implementations MUST:
-
-- Protect user accounts
-- Prevent unauthorized data alteration
-- Log administrative changes
-- Preserve source attribution
-- Secure stored records
-
----
-
-# Accessibility Requirements
-
-User interfaces SHOULD support:
-
-- Screen readers
-- Keyboard navigation
-- Clear data visualization
-- Mobile accessibility
-- Plain-language explanations
 
 ---
 
@@ -417,27 +350,4 @@ Please note the following:
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
-**Open Arsenal Hub**  
-[https://gitlab.com/Roxanne_Ardary/open-arsenal-specs](https://gitlab.com/Roxanne_Ardary/open-arsenal-specs)
-
----
-
-# Contributing
-
-Contributions are welcome.
-
-All contributions must:
-
-- Follow the AGPL-3.0+ license
-- Preserve specification neutrality
-- Maintain transparency requirements
-- Include appropriate documentation
-- Avoid removing attribution requirements
-
----
-
-# Specification Goals
-
-The Voting Record Analysis Specification exists to create an open, transparent, and interoperable standard for understanding legislative activity through verifiable public records.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
