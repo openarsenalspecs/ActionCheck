@@ -1,12 +1,11 @@
 # ActionCheck
+**Every Action Logged. Every Deviation Noted.**
 
-*Every Action Logged. Every Deviation Noted.*
+---
 
 ActionCheck is an open-source civic accountability platform designed to help citizens track whether elected officials follow through on their promises, how they vote while in office, who they financially benefit, and whether their actions align with the people they serve.
 
 The platform combines public records, legislative data, campaign statements, financial disclosures, corporate filings, and AI-powered analysis into one transparent system for public review.
-
-Licensed under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.
 
 ---
 
@@ -19,6 +18,7 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 ## Full Feature List
 
 ## [Promise Tracker](https://codeberg.org/RoxanneA/ActionCheck/src/branch/main/Promise%20Tracker.md)
+[https://roxanneardary.com/promise-tracker/](https://roxanneardary.com/promise-tracker/)  
 
 - Store campaign promises from speeches, websites, interviews, debates, and policy platforms  
 - Categorize promises by issue type  
@@ -35,6 +35,7 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 ---
 
 ## [Voting Record Analysis](https://codeberg.org/RoxanneA/ActionCheck/src/branch/main/Voting%20Record%20Analysis.md)
+[https://roxanneardary.com/voting-record-analysis/](https://roxanneardary.com/voting-record-analysis/)  
 
 - Full voting history by politician
 - Compare votes to campaign promises
@@ -48,6 +49,7 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 ---
 
 ## [Integrity & Deviation Detection](https://codeberg.org/RoxanneA/ActionCheck/src/branch/main/Integrity%20and%20Deviation%20Detection.md)
+[https://roxanneardary.com/integrity-and-deviation-detection/](https://roxanneardary.com/integrity-and-deviation-detection/)  
 
 - Detect sudden policy reversals
 - Identify repeated contradictions
@@ -60,6 +62,7 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 ---
 
 ## [Financial Transparency](https://codeberg.org/RoxanneA/ActionCheck/src/branch/main/Financial%20Transparency.md)
+[https://roxanneardary.com/financial-transparency/](https://roxanneardary.com/financial-transparency/)  
 
 - Portfolio disclosure tracking
 - Stock trade monitoring
@@ -73,6 +76,7 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 ---
 
 ## [Board Membership & Corporate Ties](https://codeberg.org/RoxanneA/ActionCheck/src/branch/main/Board%20Membership%20and%20Corporate%20Ties.md)
+[https://roxanneardary.com/board-membership-corporate-ties/](https://roxanneardary.com/board-membership-corporate-ties/)  
 
 - AI-powered search for current board memberships
 - AI-powered search for former board memberships
@@ -86,6 +90,7 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 ---
 
 ## [AI Intelligence Engine](https://codeberg.org/RoxanneA/ActionCheck/src/branch/main/AI%20Intelligence%20Engine.md)
+[https://roxanneardary.com/ai-intelligence-engine/](https://roxanneardary.com/ai-intelligence-engine/)  
 
 - Natural language promise detection
 - Speech-to-policy comparison
@@ -99,6 +104,7 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 ---
 
 ## [Citizen Tools](https://codeberg.org/RoxanneA/ActionCheck/src/branch/main/Citizen%20Tools.md)
+[https://roxanneardary.com/citizen-tools/](https://roxanneardary.com/citizen-tools/)  
 
 - Public politician profiles
 - Search by city, state, district, party, office
@@ -113,6 +119,7 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 ---
 
 ## [Data & Auditability](https://codeberg.org/RoxanneA/ActionCheck/src/branch/main/Data%20and%20Auditability.md)
+[https://roxanneardary.com/data-and-auditability/](https://roxanneardary.com/data-and-auditability/)  
 
 - Source links on all major claims
 - Timestamped updates
@@ -126,6 +133,7 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 ---
 
 ## [Admin & Moderator Tools](https://codeberg.org/RoxanneA/ActionCheck/src/branch/main/Admin%20and%20Moderator%20Tools.md)
+[https://roxanneardary.com/admin-and-moderator-tools/](https://roxanneardary.com/admin-and-moderator-tools/)  
 
 - Evidence review queue
 - Duplicate promise merge tools
@@ -146,34 +154,7 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 - Search: OpenSearch / Elasticsearch
 - AI Layer: NLP / Semantic Analysis / LLM workflows
 - Data Pipelines: Government APIs, SEC filings, campaign sites, public records
-- Deployment: Docker / Linux / Self-hosted / Cloud
-
----
-
-## Installation
-
-1. Clone the repository from Codeberg.
-2. Install project dependencies.
-3. Configure environment variables.
-4. Connect database.
-5. Run migrations.
-6. Start development server.
-7. Import public datasets.
-8. Begin local analysis.
-
-See project workflow documentation for full setup procedures.
-
----
-
-## Project Goals
-
-- Improve voter awareness
-- Reduce political deception
-- Make campaign promises searchable
-- Increase transparency
-- Protect citizens from corruption
-- Build open civic intelligence tools
-- Encourage informed re-election decisions
+- Deployment: Docker / Linux / Self-hosted / Cloud  
 
 ---
 
@@ -211,37 +192,3 @@ Please note the following:
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
----
-
-## Contributing
-
-Developers, researchers, journalists, data analysts, civic groups, and citizens are welcome to contribute.
-
-Areas of contribution include:
-
-- Code development
-- Public records integration
-- AI model tuning
-- UI improvements
-- Security reviews
-- Data validation
-- Documentation
-- Translation support
-
----
-
-## Repository
-
-Codeberg Repository: https://codeberg.org/RoxanneA/actioncheck
-
----
-
-## Final Statement
-
-ActionCheck exists to give citizens a clear view of public service performance.
-
-**Every Action Logged. Every Deviation Noted.**
-
-**Open Arsenal Hub**  
-[https://codeberg.org/RoxanneA/Open_Arsenal](https://codeberg.org/RoxanneA/Open_Arsenal)
