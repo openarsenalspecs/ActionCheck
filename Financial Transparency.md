@@ -1,5 +1,7 @@
 # Financial Transparency Module Specification
 
+---
+
 ## Overview
 
 The Financial Transparency Portfolio Module is an open-source specification for collecting, organizing, analyzing, and monitoring financial disclosure information associated with public officials, candidates, government employees, and other individuals subject to transparency requirements.
@@ -7,12 +9,6 @@ The Financial Transparency Portfolio Module is an open-source specification for 
 The module provides a structured framework for tracking financial interests, stock transactions, real estate ownership, lobbying relationships, wealth changes, and potential conflicts between personal financial activity and official responsibilities.
 
 The system is designed as a transparency and accountability tool. It identifies financial relationships, patterns, anomalies, and areas requiring review. It does not determine criminal conduct, corruption, or legal violations. All findings must remain evidence-based and require appropriate human review.
-
-This specification is released under the GNU Affero General Public License v3.0 or later (AGPL-3.0+).
-
-Required attribution:
-- Roxanne Ardary
-- https://www.roxanneardary.com/
 
 ---
 
@@ -737,108 +733,7 @@ The system must reduce false positives by:
 - Accounting for broad investments
 - Avoiding assumptions
 - Providing explanations
-- Allowing reviewer corrections
-
----
-
-# 21. API Requirements
-
-Recommended endpoints:
-
-Persons
-
-Disclosures
-
-Assets
-
-Transactions
-
-Properties
-
-Lobbying
-
-Committees
-
-Alerts
-
-Reviews
-
-Reports
-
----
-
-# 22. Security Requirements
-
-Required security controls:
-
-- Encryption
-- Authentication
-- Authorization controls
-- Audit logs
-- Secure backups
-- Access monitoring
-
----
-
-# 23. Documentation Requirements
-
-Every implementation must document:
-
-- Installation process
-- Data sources
-- Configuration
-- Detection rules
-- Review procedures
-- Security practices
-
----
-
-# 24. Contribution Guidelines
-
-Contributors must:
-
-- Follow AGPL-3.0+ requirements
-- Maintain documentation
-- Preserve transparency principles
-- Provide testing information
-- Avoid unsupported claims
-
----
-
-# 25. License & Notice Requirements
-
-Financial Transparency Module Specification is released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
-By contributing to any Open Arsenal project, you agree that your contributions will also be released under this license.
-
-Please note the following:
-
-- All contributions must comply with the **AGPL-3.0+** terms.  
-- Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
-  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- Financial Transparency Module specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
-- The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
-  Any update that adds new contributors or modifies attribution should also update `notice.md`. 
-- When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
-- Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
-
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
-**Open Arsenal Hub**  
-[https://gitlab.com/Roxanne_Ardary/open-arsenal-specs](https://gitlab.com/Roxanne_Ardary/open-arsenal-specs)
-
----
-
-# 26. Future Extensions
-
-Possible future modules:
-
-- Campaign Finance Transparency
-- Corporate Ownership Mapping
-- Government Contract Conflict Detection
-- Cryptocurrency Disclosure Analysis
-- AI Ethics Review Assistant
-- Public Integrity Knowledge Graph
-- Cross-Jurisdiction Financial Comparison
+- Allowing reviewer corrections  
 
 ---
 
@@ -860,8 +755,20 @@ Possible future modules:
 
 ---
 
-# Summary
+## License & Notice Requirements
 
-The Financial Transparency Portfolio Module provides an open, auditable framework for analyzing financial disclosures, investment activity, ownership interests, and potential conflicts between personal financial interests and public responsibilities.
+Financial Transparency Module Specification is released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
+By contributing to any Open Arsenal project, you agree that your contributions will also be released under this license.
 
-The specification prioritizes transparency, evidence verification, explainable analysis, and human review to support responsible public accountability systems.
+Please note the following:
+
+- All contributions must comply with the **AGPL-3.0+** terms.  
+- Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
+  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
+- Financial Transparency Module specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
+  Any update that adds new contributors or modifies attribution should also update `notice.md`. 
+- When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
+- Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
+
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
