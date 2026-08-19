@@ -1,4 +1,5 @@
 # Integrity & Deviation Detection Specification
+- HTML Mirror:  [https://roxanneardary.com/integrity-and-deviation-detection-specification/](https://roxanneardary.com/integrity-and-deviation-detection-specification/)
 
 ---
 
