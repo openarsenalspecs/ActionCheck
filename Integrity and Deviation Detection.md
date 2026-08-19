@@ -1,12 +1,6 @@
 # Integrity & Deviation Detection Specification
 
-## Version
-
-Version: 1.0.0
-
-## License
-
-GNU Affero General Public License v3.0 or later (AGPL-3.0+)
+---
 
 ## Overview
 
@@ -1389,106 +1383,6 @@ Should support:
 - Audit logs
 - System settings
 
-# Testing Requirements
-
-All implementations must include testing.
-
-## Unit Testing
-
-Test:
-
-- Data processing
-- Entity matching
-- Score calculations
-- Detection rules
-
-## Integration Testing
-
-Test:
-
-- Data ingestion
-- Database operations
-- API communication
-- User workflows
-
-## Security Testing
-
-Test:
-
-- Authentication
-- Authorization
-- Data protection
-- API security
-
-## Accuracy Testing
-
-Test:
-
-- Detection reliability
-- False positive rates
-- Evidence matching
-- Scoring consistency
-
-## Regression Testing
-
-Required after:
-
-- Rule changes
-- Database changes
-- Software updates
-
-# Deployment Validation
-
-Before production deployment:
-
-Verify:
-
-- Database integrity
-- Security configuration
-- Backup systems
-- API availability
-- Review workflows
-- Audit logging
-
-# Version Management
-
-The specification follows semantic versioning.
-
-## Major Versions
-
-Used for:
-
-- Breaking architectural changes
-- Database redesigns
-- API incompatibility
-
-## Minor Versions
-
-Used for:
-
-- New features
-- Additional detection modules
-- Compatible improvements
-
-## Patch Versions
-
-Used for:
-
-- Bug fixes
-- Documentation updates
-- Security improvements
-
-# Contribution Requirements
-
-Contributions must:
-
-- Maintain AGPL-3.0+ compatibility
-- Preserve transparency standards
-- Include documentation
-- Include tests
-- Avoid partisan modifications
-- Maintain evidence-based analysis
-
 ---
 ## Specification Branding License (SBL)
 
@@ -1525,6 +1419,3 @@ Please note the following:
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
-**Open Arsenal Hub**  
-[https://gitlab.com/Roxanne_Ardary/open-arsenal-specs](https://gitlab.com/Roxanne_Ardary/open-arsenal-specs)
