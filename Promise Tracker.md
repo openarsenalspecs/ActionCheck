@@ -1,5 +1,7 @@
 # Promise Tracker Specification
 
+---
+
 ## Overview
 
 Promise Tracker is an open-source specification for tracking, organizing, and verifying campaign promises made by elected officials and candidates. It provides a standardized framework for collecting promises from speeches, websites, interviews, debates, policy platforms, and public statements, then monitoring their progress through completion, partial fulfillment, reversal, or non-delivery.
@@ -7,30 +9,6 @@ Promise Tracker is an open-source specification for tracking, organizing, and ve
 The specification enables transparent accountability systems by combining structured promise records, source verification, timeline tracking, evidence management, analytics, and AI-assisted promise extraction.
 
 Promise Tracker is designed for civic platforms, government transparency applications, journalism tools, research organizations, and public accountability systems.
-
-## Mission
-
-To create a transparent, verifiable, and open standard for measuring whether public commitments are fulfilled.
-
-## Core Features
-
-### Promise Repository
-
-A structured database system for storing and managing campaign promises.
-
-Features:
-
-- Unique promise identifiers
-- Promise title and summary
-- Full promise statement storage
-- Associated candidate or elected official
-- Political organization or campaign association
-- Jurisdiction tracking
-- Election cycle tracking
-- Promise creation and modification timestamps
-- Tags and keywords
-- Related promise linking
-- Duplicate promise detection
 
 ---
 
@@ -359,22 +337,7 @@ Promise Tracker can be extended with:
 - AI accountability scoring
 - Notification systems
 - Comparative government dashboards
-- Open civic data platforms
-
----
-
-## Design Principles
-
-Promise Tracker follows these principles:
-
-- Transparency by default
-- Source-backed information
-- Open data compatibility
-- Human review with AI assistance
-- Verifiable accountability
-- Public accessibility
-- Modular architecture
-- Long-term preservation
+- Open civic data platforms  
 
 ---
 
@@ -412,7 +375,4 @@ Please note the following:
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
-**Open Arsenal Hub**  
-[https://codeberg.org/RoxanneA/Open_Arsenal](https://codeberg.org/RoxanneA/Open_Arsenal)
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
