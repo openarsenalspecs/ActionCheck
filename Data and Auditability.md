@@ -1,4 +1,5 @@
 # Data and Auditability Module Specification
+- HTML Mirror:  [https://roxanneardary.com/open-source-data-and-auditability-specification/](https://roxanneardary.com/open-source-data-and-auditability-specification/)
 
 ## Overview
 
