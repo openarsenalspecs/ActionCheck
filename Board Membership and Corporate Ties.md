@@ -1,10 +1,5 @@
 # Board Membership & Corporate Ties Specification
 
-Version: 1.0  
-License: GNU Affero General Public License v3.0 or later (AGPL-3.0+)  
-Author Attribution Requirement: Roxanne Ardary  
-Website: https://www.roxanneardary.com/
-
 ---
 
 # 1. Purpose
@@ -589,58 +584,6 @@ Reviewers shall be able to:
 
 ---
 
-# 17. Security Requirements
-
-- Encryption at rest
-- Encryption in transit
-- Role-based access control
-- Audit logging
-- Immutable evidence storage
-- API authentication
-- Data integrity verification
-
----
-
-# 18. Deployment Requirements
-
-Supported deployments:
-
-- Standalone server
-- Container deployment
-- Kubernetes
-- Private cloud
-- Public cloud
-- Air-gapped environment
-
----
-
-# 19. Export Requirements
-
-Supported formats:
-
-- JSON
-- CSV
-- XML
-- PDF
-- GraphML
-- Neo4j export
-- REST API feeds
-
----
-
-# 20. Compliance Requirements
-
-The module shall comply with:
-
-- AGPL-3.0+
-- Data protection regulations
-- Public records laws
-- Open data standards
-- Evidence preservation requirements
-- Audit requirements
-
----
-
 ## Specification Branding License (SBL)
 
 ### Standard
@@ -676,6 +619,3 @@ Please note the following:
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
-**Open Arsenal Hub**  
-[https://gitlab.com/Roxanne_Ardary/open-arsenal-specs](https://gitlab.com/Roxanne_Ardary/open-arsenal-specs)
