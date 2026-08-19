@@ -1,5 +1,6 @@
 # ActionCheck
 **Every Action Logged. Every Deviation Noted.**
+- HTML Mirror:  [https://roxanneardary.com/actioncheck-specification/](https://roxanneardary.com/actioncheck-specification/)
 
 ---
 
