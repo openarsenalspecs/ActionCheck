@@ -49,7 +49,7 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 
 ---
 
-## [Integrity & Deviation Detection](https://codeberg.org/RoxanneA/ActionCheck/src/branch/main/Integrity%20and%20Deviation%20Detection.md)
+## [Integrity & Deviation Detection](https://github.com/openarsenalspecs/ActionCheck/blob/5789a24263c7e3a72e8698bf40029eafb1c7babe/Integrity%20and%20Deviation%20Detection.md)  
 [https://roxanneardary.com/integrity-and-deviation-detection/](https://roxanneardary.com/integrity-and-deviation-detection/)  
 
 - Detect sudden policy reversals
