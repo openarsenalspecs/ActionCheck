@@ -62,7 +62,7 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 
 ---
 
-## [Financial Transparency](https://codeberg.org/RoxanneA/ActionCheck/src/branch/main/Financial%20Transparency.md)
+## [Financial Transparency](https://github.com/openarsenalspecs/ActionCheck/blob/b4428397237287eb0af92aa07a39bfaaf01f3d8d/Financial%20Transparency.md)  
 [https://roxanneardary.com/financial-transparency/](https://roxanneardary.com/financial-transparency/)  
 
 - Portfolio disclosure tracking
