@@ -35,7 +35,7 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 
 ---
 
-## [Voting Record Analysis](https://codeberg.org/RoxanneA/ActionCheck/src/branch/main/Voting%20Record%20Analysis.md)
+## [Voting Record Analysis](https://github.com/openarsenalspecs/ActionCheck/blob/47e9c4643dc19b5ea3de032249e5c7026a411335/Voting%20Record%20Analysis.md)  
 [https://roxanneardary.com/voting-record-analysis/](https://roxanneardary.com/voting-record-analysis/)  
 
 - Full voting history by politician
