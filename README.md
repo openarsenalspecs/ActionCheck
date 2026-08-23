@@ -146,6 +146,190 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 
 ---
 
+## Optional Plugin Modules
+
+ActionCheck is designed with a modular architecture that allows organizations, civic groups, election organizations, watchdogs, and communities to install specialized plugins for specific elections, jurisdictions, and accountability requirements. The core platform provides the universal accountability infrastructure, while optional modules focus the system on particular types of elections or organizations.
+
+### Local Election Plugin Modules
+
+#### School Board Accountability
+
+- Track school board candidates and incumbents
+- Catalog campaign promises concerning curriculum, budgets, staffing, facilities, transportation, and student services
+- Compare campaign promises with board votes and meeting minutes
+- Track attendance and committee participation
+- Monitor school district budgets and major expenditures
+- Compare candidate positions with subsequent decisions
+
+#### Municipal Election Module
+
+- Track mayors, city council members, commissioners, and other municipal officials
+- Monitor local ordinances and votes
+- Track zoning, development, contracts, taxes, fees, and municipal spending
+- Compare campaign platforms with municipal actions
+- Track relationships with developers, contractors, and local businesses
+
+#### County Election Module
+
+- Track county commissioners and other county-level elected officials
+- Monitor county budgets, contracts, infrastructure, public services, and taxation
+- Analyze votes against campaign commitments
+- Track major vendors and contractors
+- Identify recurring relationships between officials and outside organizations
+
+#### State Legislative Module
+
+- Track state representatives and senators
+- Compare campaign platforms with legislative voting records
+- Monitor sponsored and co-sponsored legislation
+- Track committee assignments and votes
+- Analyze state-level financial disclosures
+
+#### Runoff Election Module
+
+- Identify races proceeding to a runoff
+- Create side-by-side candidate comparisons
+- Carry forward the complete Promise Tracker
+- Compare first-round and runoff positions
+- Track endorsements and newly announced commitments
+- Highlight policy changes between the primary and runoff
+- Produce voter-focused runoff accountability reports
+
+#### Primary Election Module
+
+- Compare candidates within the same party or primary contest
+- Track competing platforms
+- Analyze endorsements
+- Identify changes in campaign positions
+- Compare incumbents against challengers
+
+#### Special Election Module
+
+- Support elections outside the normal election cycle
+- Create temporary race profiles
+- Track candidates, deadlines, platforms, and results
+- Monitor promises made during abbreviated campaigns
+
+#### Recall Election Module
+
+- Track officials subject to recall
+- Record recall grounds and supporting claims
+- Compare original campaign promises with subsequent actions
+- Track recall responses and replacement candidates
+- Provide evidence-linked accountability timelines
+
+#### Judicial Election Module
+
+- Track elected judges and judicial candidates
+- Record publicly stated positions where legally and ethically appropriate
+- Track endorsements and campaign funding
+- Monitor financial disclosures
+- Maintain separation between factual records and legal conclusions
+
+### Organization-Specific Plugin Modules
+
+Organizations can develop or deploy plugins focused on their own accountability requirements, including:
+
+- School District Plugin
+- Municipal Watchdog Plugin
+- County Watchdog Plugin
+- Taxpayer Accountability Plugin
+- Education Accountability Plugin
+- Infrastructure Oversight Plugin
+- Government Contracting Plugin
+- Local Ethics Plugin
+- Campaign Finance Plugin
+- Election Comparison Plugin
+- Candidate Research Plugin
+
+### Plugin Architecture
+
+The ActionCheck Core provides universal functionality used across all election types and organizational deployments.
+
+#### ActionCheck Core
+
+- Politician profiles
+- Promise Tracker
+- Voting records
+- Financial disclosures
+- Corporate relationships
+- AI analysis
+- Evidence management
+- Source verification
+- Audit trails
+- Search
+- User permissions
+- Reporting
+
+Optional plugins extend the core through a modular structure:
+
+**Plugin → Election Type → Jurisdiction → Data Sources → Specialized Analysis → Reports**
+
+This architecture allows the same ActionCheck installation to support small local elections, such as school board races, as well as municipal, county, state, and statewide elections without requiring every organization to use every available feature.
+
+### Configuration-Driven Plugins
+
+Plugins should be configuration-driven whenever practical rather than requiring modifications to the ActionCheck core.
+
+Organizations can configure:
+
+- Election type
+- Jurisdiction
+- Offices being tracked
+- Applicable public-record sources
+- Data collection methods
+- Accountability criteria
+- Analysis methods
+- Reporting requirements
+- User permissions
+- Organization-specific workflows
+
+This allows organizations to deploy ActionCheck for their specific jurisdiction and mission while maintaining compatibility with the core platform.
+
+### AI Accountability Principles
+
+AI-powered ActionCheck modules should identify, analyze, organize, and explain evidence rather than independently declaring that a politician is corrupt or guilty of wrongdoing.
+
+The system may identify and flag:
+
+- Potential conflicts of interest
+- Potential cronyism
+- Potential nepotism
+- Policy deviations
+- Contradictory statements
+- Unusual financial patterns
+- Relationships requiring review
+- Evidence requiring additional investigation
+
+Every significant AI-generated finding should provide supporting sources and distinguish between documented facts, analytical findings, unresolved questions, and allegations.
+
+The objective is to provide citizens with transparent evidence and useful analysis while allowing voters, journalists, researchers, and organizations to make their own informed determinations.
+
+### Plugin Independence
+
+Optional plugins should remain modular and independently maintainable.
+
+Plugins should:
+
+- Avoid unnecessary modifications to the ActionCheck Core
+- Maintain their own documentation
+- Identify their required data sources
+- Document their methodology
+- Maintain compatibility requirements
+- Preserve ActionCheck attribution requirements
+- Comply with the AGPL-3.0+ license
+- Maintain auditability of plugin-generated results
+
+Organizations may develop private organizational modules while maintaining compliance with the applicable ActionCheck licensing requirements.
+
+### Plugin Ecosystem
+
+The long-term goal is to create an ecosystem of specialized ActionCheck modules that can be adapted to different communities, elections, jurisdictions, and organizations while maintaining a common accountability framework.
+
+This modular approach allows ActionCheck to function as a general civic accountability platform while giving individual organizations the ability to focus on the elections and public officials most relevant to their communities.
+
+---
+
 ## Tech Stack
 
 - Frontend: React
