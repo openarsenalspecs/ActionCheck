@@ -18,7 +18,7 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 
 ## Full Feature List
 
-## [Promise Tracker](https://codeberg.org/RoxanneA/ActionCheck/src/branch/main/Promise%20Tracker.md)
+## [Promise Tracker](https://github.com/openarsenalspecs/ActionCheck/blob/e1bdd85190801b1957efa8bfe7855a3ee4733449/Promise%20Tracker.md)  
 [https://roxanneardary.com/promise-tracker/](https://roxanneardary.com/promise-tracker/)  
 
 - Store campaign promises from speeches, websites, interviews, debates, and policy platforms  
