@@ -119,7 +119,7 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 
 ---
 
-## [Data & Auditability](https://codeberg.org/RoxanneA/ActionCheck/src/branch/main/Data%20and%20Auditability.md)
+## [Data & Auditability](https://github.com/openarsenalspecs/ActionCheck/blob/28d4ddec5a7ff32ccc0d3a6fe4400a2abb0a9246/Data%20and%20Auditability.md)  
 [https://roxanneardary.com/data-and-auditability/](https://roxanneardary.com/data-and-auditability/)  
 
 - Source links on all major claims
