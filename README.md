@@ -133,7 +133,7 @@ Modern voters are often forced to rely on campaign slogans, fragmented news cove
 
 ---
 
-## [Admin & Moderator Tools](https://codeberg.org/RoxanneA/ActionCheck/src/branch/main/Admin%20and%20Moderator%20Tools.md)
+## [Admin & Moderator Tools](https://github.com/openarsenalspecs/ActionCheck/blob/bf21602c54e55a1fb4897809ee9faff2048db368/Admin%20and%20Moderator%20Tools.md)  
 [https://roxanneardary.com/admin-and-moderator-tools/](https://roxanneardary.com/admin-and-moderator-tools/)  
 
 - Evidence review queue
